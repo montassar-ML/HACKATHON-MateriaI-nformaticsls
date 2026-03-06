@@ -13,7 +13,7 @@ A machine learning project comparing Linear Regression and XGBoost for predictin
 |--------|--------|---------|--------|
 | **Test MAE** | 0.262 eV/atom | **0.117 eV/atom** ⭐ | XGBoost |
 | **Test R²** | 87.6% | **97.2%** ⭐ | XGBoost |
-| **Generalization** | **Perfect** ✅ | Slight overfitting ⚠️ | Linear |
+
 
 **Key Finding**: XGBoost captures nonlinear compositional effects (property variability) while Linear only sees elemental averages. **Formation energy depends on how diverse elements are, not just what they are.**
 
