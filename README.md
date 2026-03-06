@@ -1,4 +1,4 @@
-# Data-Driven Prediction of Perovskite Oxide Formation Energy Using Composition-Based DescriptorsMaterials Informatics Regression: Linear Regression vs XGBoost
+# Data-Driven Prediction of Perovskite Oxide Formation Energy Using Composition-Based DescriptorsMaterials Informatics Regression
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-green.svg)
