@@ -149,10 +149,10 @@ Magpie Features
 
 ## 👥 Team Members
 
-- **MONTASSAR BOUZIDI** — g202320210  
-- **MAHBUBA AKTARY** — g202215800  
-- **MARAM ALANAZI** — g202510070  
-- **AGHARID ANBAR** — g202509810  
+- **MONTASSAR BOUZIDI**
+- **MAHBUBA AKTARY**  
+- **MARAM ALANAZI**  
+- **AGHARID ANBAR**  
 
 ## 📧 Contact
 
@@ -160,4 +160,4 @@ Questions? Open an issue or reach out at bouzidimontassar2@gmail.com
 
 ---
 
-**Status**: ✅ Complete & Production-Ready | **Last Updated**: [07/03/2026]
+**Status**: ✅ Complete & Production-Ready | **Last Updated**: 07/03/2026
