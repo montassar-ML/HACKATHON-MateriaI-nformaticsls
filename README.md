@@ -5,7 +5,7 @@
 ![XGBoost](https://img.shields.io/badge/xgboost-1.5+-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A machine learning project comparing Linear Regression and XGBoost for predicting formation energy of perovskite oxides from chemical composition. This work demonstrates **55.5% accuracy improvement** and accelerates materials discovery by enabling rapid screening of 100,000+ hypothetical compounds in seconds instead of hours of expensive quantum calculations.
+A machine learning project comparing Linear Regression and XGBoost for predicting formation energy of perovskite oxides from chemical composition. This work demonstrates **High accuracy improvement** and accelerates materials discovery by enabling rapid screening of 100,000+ hypothetical compounds in seconds instead of hours of expensive quantum calculations.
 
 ## 📋 Quick Summary
 
@@ -13,7 +13,6 @@ A machine learning project comparing Linear Regression and XGBoost for predictin
 |--------|--------|---------|--------|
 | **Test MAE** | 0.262 eV/atom | **0.117 eV/atom** ⭐ | XGBoost |
 | **Test R²** | 87.6% | **97.2%** ⭐ | XGBoost |
-| **Improvement** | Baseline | **55.5% better** ⭐ | - |
 | **Generalization** | **Perfect** ✅ | Slight overfitting ⚠️ | Linear |
 
 **Key Finding**: XGBoost captures nonlinear compositional effects (property variability) while Linear only sees elemental averages. **Formation energy depends on how diverse elements are, not just what they are.**
